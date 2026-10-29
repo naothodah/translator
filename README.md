@@ -1,7 +1,2 @@
 # translator
 language 
-
-
-
-
-j
